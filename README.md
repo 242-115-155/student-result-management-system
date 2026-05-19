@@ -55,5 +55,12 @@ A full-stack database management project developed using PHP and MySQL.
 ## Project Objective
 This project helps manage student academic records digitally using CRUD operations and database connectivity.
 
+## Live Demo
+https://musemesterfinalresult.infinityfree.me
+
+## Default Teacher Login
+Email: rahim.cse@metrouni.edu
+Password: rahim123
+
 ## Developed By
 Maliha Tabassum Hridila
